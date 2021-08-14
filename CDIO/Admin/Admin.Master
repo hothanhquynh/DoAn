@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="CDIO3.Admin.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../assets/css/admin.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/c52f7154f4.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="main_container">
+            <div class="nav">
+                 <div class="logo">
+                     <img src="../assets/img/logo-mwatch-02%20(1).png" alt=""/>
+                </div>
+                <div class="nav_content">
+                    <i class="far fa-user-circle" style="color: white;font-size: 40px;margin-left: 88%;margin-top: 15px;"></i>
+                    <div class="hello"><asp:Label ID="lbl_hello" runat="server"></asp:Label></div>
+                </div>
+            </div>
+             <div class="main_content">
+               <div class="main_left">
+                   <div class="item">
+                       <i class="far fa-user"></i>
+                       <span><a href="../Admin/QLTK.aspx">Quản lý tài khoản</a></span>
+
+                   </div>
+                   <div class="item">
+                       <i class="fas fa-file-invoice"></i>
+                       <span><a href="../Admin/QuanLyDonHang.aspx">Quản lý hóa đơn</a></span>
+
+                   </div>
+                   <div class="item">
+                       <i class="fas fa-list-ul" style="padding-right:15px;"></i>
+                       <span><a href="../Admin/QLDM.aspx">Quản lý danh mục</a></span>
+
+                   </div>
+                   <div class="item">
+                       <i class="fas fa-tags" style="padding-right:11px;"></i>
+                       <span><a href="../Admin/QLSanPham.aspx">Quản lý sản phẩm</a></span>
+
+                   </div>
+                   <div class="item">
+                       <i class="fas fa-percentage" style="padding-right:17px;"></i>
+                       <span><a href="../Admin/QLKM.aspx">Quản lý khuyến mại</a></span>
+
+                   </div>
+                   <div class="item">
+                       <i class="far fa-comments" style="padding-right:10px;"></i>
+                       <span><a href="../Admin/QLDanhgia.aspx">Quản lý đánh giá</a></span>
+
+                   </div>
+                   <div class="item">
+                       <i class="far fa-chart-bar" style="padding-right:10px;"></i>
+                       <span><a href="../Admin/QLTKe.aspx">Thống kê</a></span>
+
+                   </div>
+                   <div class="item">
+                       <i class="fas fa-sign-out-alt" style="padding-right:10px;"></i>
+                       <span>
+                           <asp:Button ID="btnlogout" runat="server" Text="Đăng xuất" OnClick="btnlogout_Click" CssClass="btnlogout"/></span>
+
+                   </div>
+               </div>
+                <div class="main_right">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                </div>
+             </div>
+             
+        </div>
+       
+      
+    </form>
+</body>
+</html>

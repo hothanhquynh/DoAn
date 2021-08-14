@@ -1,0 +1,156 @@
+body {
+  background-color: #d6d2d2;
+}
+
+#navbar1 {
+  background-color: black;
+  height: 100px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: -20px;
+}
+
+.container-user {
+  margin-top: 130px;
+}
+
+.container-user .list-left {
+  width: 100%;
+  text-align: center;
+}
+
+.container-user .list-left ul li a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px 0;
+  -webkit-box-pack: left;
+      -ms-flex-pack: left;
+          justify-content: left;
+}
+
+.container-user .list-left ul li a i {
+  font-size: 30px;
+  color: #555555;
+  font-size: 16px;
+}
+
+.container-user .list-left ul li a :hover {
+  color: #DD3324;
+}
+
+.container-user .list-left ul li a p {
+  padding: 2px 10px;
+  color: #555555;
+  font-size: 16px;
+}
+
+.container-user .list-right {
+  width: 100%;
+  padding: 10px 0;
+  max-height: 100%;
+  padding-bottom: 20px;
+  text-align: ist-r
+  background-color: #fff;
+}
+
+.container-user .list-right h1 {
+  color: #555555;
+  font-size: 16px;
+}
+
+.container-user .list-right p {
+  color: #555555;
+  font-size: 16px;
+}
+
+.container-user .list-right .form-profile {
+  padding: 0 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.container-user .list-right .form-profile div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px;
+}
+
+.container-user .list-right .form-profile div p {
+  margin: 10px 4px;
+  width: 120px;
+}
+
+.container-user .list-right .form-profile div input {
+ground-color: #555252;
+  cursor:pointer;
+}
+
+.sub-user {
+  padding: 16px 40px;
+  font-size: 18px;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 600;
+  background-3324;
+  outline:none;
+  
+}
+
+.none-hover {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #555555;
+  font-size:55555;
+  font-size:e
+}
+
+.none-hover {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #555555;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.none-hover i {
+  color: #000;
+}
+
+.sex {
+  -webkit-box-pack: left;
+      -ms-flex-pack: left;
+          justify-content: left;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: -8px -50px;
+}
+
+.sex p {
+  -webkit-transform: translate(40px, -12px);
+          transform: translate(40px, -12px);
+}
+
+.input-login {
+    margin-bottom: 15px;
+}
+
+.label {
+    font-size: 17px;
+    color: red;
+    margin-right: 10px;
+}
+
+/*# sourceMappingURL=user.css.map */

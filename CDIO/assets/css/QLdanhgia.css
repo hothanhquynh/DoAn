@@ -1,0 +1,39 @@
+﻿.gvdanhgia {
+    margin: 20px;
+    text-align:center;
+    
+}
+.danhgia_content {
+    transform: translateX(210px);
+}
+.input_danhgia {
+    padding: 5px;
+    width: 85%;
+    margin: 10px;
+}
+.input_textaria {
+    width:238%;
+}
+.btn-danhgia {
+    border: 1px solid #2f80ed;
+    border-radius: 4px;
+    color: #2f80ed;
+    display: block;
+    line-height: 17px;
+    margin-left: 3%;
+    padding: 4px 5px;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+    display: inline-block;
+}
+.text_calendar {
+    padding: 5px;
+    width: 50%;
+    margin: 10px;
+    transform: translateX(-29px);
+}
+.img_calendar {
+    height: 20px;
+    transform: translate(-30px, -15px);
+}

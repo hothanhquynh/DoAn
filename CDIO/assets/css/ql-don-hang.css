@@ -1,0 +1,100 @@
+﻿/*Quan ly don hang*/
+.qldh-container,
+.order-container,
+.chi-tiet-dh-container {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.qldh-main-container {
+    width: 100%;
+}
+
+.qldh-main-container h1 {
+    margin-top: 20px;
+}
+
+.qldh-main-container h2 {
+    margin: 30px auto;
+}
+.sub-data > h2 {
+    margin-top:40px;
+}
+
+
+.gridview {
+    transform: translateX(40px);
+    margin-top: 20px;
+}
+
+.ddl {
+    width: 100px;
+    padding: 5px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.chi-tiet-dh-container h1 {
+    color: #000;
+}
+
+.btn-back {
+    background-color: #7DC855;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 1.6rem;
+}
+.chitiet_content {
+    color: black;
+    transform: translateX(275px);
+    margin-top:20px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.content > p {
+        font-weight: 600;
+        font-size: 18px;
+        margin: 20px 20px;
+}
+.content > input {
+    height: 40px;
+    padding-left: 20px;
+    transform: translateY(10px);
+    width: 250px;
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+.btn_trove {
+    padding: 15px 50px;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 30px 46%;
+    text-align: center;
+    font-weight: 600;
+    color: #2f323e;
+    border: none;
+    background-color: #7dc855;
+    border-radius: 40px;
+}
+}
+
+
+
+
+

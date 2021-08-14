@@ -1,0 +1,107 @@
+﻿#main {
+    width: 100%;
+    text-align: center;
+}
+
+.header-wrapper {
+    background-image: url("../img/img_intro/red-glow-under-a-metallic-honeycomb.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 170px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 20px;
+    margin-top: 100px;
+}
+
+.page-title h2 {
+    font-size: 3em;
+    line-height: 1.3;
+    font-weight: 700;
+}
+
+.breadcrumb ul {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.breadcrumb a {
+    font-size: 1.7em;
+}
+
+.breadcrumb .current-page {
+    font-size: 1.7em;
+}
+
+.breadcrumb li {
+    padding: 0 20px;
+}
+
+
+.current-page {
+    font-weight: 700;
+}
+
+.section {
+    color: black;
+    text-align: center;
+    margin-top: 70px;
+}
+
+    .section h2 {
+        font-size: 4.5em;
+    }
+
+    .section p {
+        width: 500px;
+        font-size: 1.8em;
+        line-height: 1.6;
+        margin: 0 auto;
+    }
+
+    .section .description {
+        display: grid;
+        grid-template-columns: 250px 650px 250px;
+        margin-top: 50px;
+        justify-content: center;
+        column-gap: 20px;
+        row-gap: 20px;
+        ;
+    }
+
+    .section .left,
+    .section .right {
+        width: 250px;
+    }
+
+.box {
+    margin-top: 50px;
+    height: 300px;
+}
+
+
+    .box .box-icon {
+        width: 70px;
+    }
+
+.center img {
+    width: 95%;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+    .box h2 {
+        font-size: 2.3em;
+    }
+
+    .box p {
+        font-size: 1.8em;
+        line-height: 1.6;
+        color: #777777;
+        width: 250px;
+    }

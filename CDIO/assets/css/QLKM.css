@@ -1,0 +1,49 @@
+﻿body {
+}
+.table {
+    margin-left: 14%;
+}
+.table td {
+    padding-right: 15px;
+}
+.table input {
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.img_calendar {
+    height: 30px;
+    transform: translateY(14px);
+    margin-right: 60px;
+    margin-left:10px;
+}
+.trangthai {
+    height: 30px;
+    width: 193px;
+    margin-top: 14px;
+}
+.btn_km {
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    margin: 20px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: #7DC855;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 12px 30px;
+}
+.button {
+    margin-left:35%;
+}
+.grid {
+    margin:30px 60px;
+}
+.drop_trangthai {
+    height: 30px;
+    width: 193px;
+    margin-top: 14px;
+    margin-left:43%;
+}

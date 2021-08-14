@@ -1,0 +1,429 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Header.master.cs" Inherits="CDIO.Header" %>
+
+
+
+<html>
+<head runat="server">
+  
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="./assets/css/grid.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="~/assets/fonts/fontawesome-free-5.14.0/css/all.min.css ">
+    <link rel="stylesheet" href="~/assets/css/main.css">
+    <link rel="stylesheet" href="~/assets/css/base.css">
+    <link href="assets/css/slide.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/assets/css/responsive.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">  
+
+    <style>
+    .content{
+        
+        width: 100%;
+    }
+    .container{
+        background-color:black;
+    }
+    #navbar1{
+        transform: translateY(10px);
+        border-color: black;
+    }
+</style>
+</head>
+<body>
+    <form id="form1" runat="server">
+      <div style="background-color:black;" class="app ">
+          <!-- login -->
+      <div class="login overlay" id="login">
+            
+      </div>
+         <!-- sign up -->
+      <div class="login overlay" id="signup">
+       
+     </div>
+        <header style="z-index: 1000000" class="header" >               
+            <div class="grid wide">
+                <div class="row row-header">              
+                        <div class="header-item-left">
+                            <div class="header-item-left-child header-item__icon">
+                                    <ul class="header-left-icon">
+                                        <li class="header-left-icon__item">
+                                            <a href="https://www.facebook.com/qyn.qyn.3979" class="header-left-icon__item__link">
+                                                <i class="fab fa-facebook-f"></i>
+                                            </a>
+                                        </li>
+                                        <li class="header-left-icon__item">
+                                            <a href="https://www.facebook.com/qyn.qyn.3979" class="header-left-icon__item__link">
+                                                <i class="fab fa-instagram"></i>    
+                                            </a>
+                                        </li>
+                                        <li class="header-left-icon__item">
+                                            <a href="https://www.facebook.com/qyn.qyn.3979" class="header-left-icon__item__link">
+                                                <i class="fab fa-youtube"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                            </div>
+                            <div class="header-item-left-child header-item__address">
+                                <i class="fas fa-home"></i>
+    
+                                       <p > SHOP: 319 - C16 Lý Thường Kiệt, P.15, Q.11, Tp.HCM
+                                        </p>
+                            </div>
+                        </div>
+    
+                        <div class="header-item-right">
+                            <div class="header-item-right-child header-item__call">
+                                <i class="fas fa-phone-volume"></i>
+                                <p>HOTLINE: 076 922 0162</p>
+    
+    
+                            </div>
+
+                             <div style="margin-left:40px"  for="input-login__checked" class="header-item-right-child header-item__signup">
+                              <asp:LinkButton ID="signin" runat="server" PostBackUrl="~/Login.aspx">ĐĂNG NHẬP</asp:LinkButton>
+                            <asp:LinkButton ID="hello" runat="server" Visible="False" PostBackUrl="~/user-info.aspx">
+                                  <asp:Label ID="lbl_hello" runat="server"></asp:Label></asp:LinkButton>
+                          </div>
+                          &emsp;
+                                <span ></span>
+                          <div  for="input-login__checked" class="header-item-right-child header-item__signup">
+                              <asp:LinkButton ID="signup" runat="server" PostBackUrl="~/Signup.aspx">ĐĂNG KÝ</asp:LinkButton>
+                            
+                      </div>
+                    
+                </div>
+            </div>
+        </header>
+        <div  class="container">
+            <div class="slider">
+                <div class="grid wide">
+                    <div class="row row-max">
+                        <div class="slideshow-container">
+                             <!-- nav__mobile -->
+                            <header class="header-mobile">
+                                <nav class="nav-mobile">
+    
+                                    <label for="input__nav-mobile" >
+                                        <i class="fas fa-bars"></i>
+                                    </label>   
+                                    <a href="#">
+                                        <img style="width: 180px ; height:49px" src="./assets/img/logo-footer.png" alt="">
+                                    </a>
+                                    <a href="">
+                                        <i class="fas fa-shopping-cart"></i>
+                                    </a>
+                               
+                                </nav>
+                                <input class="input__checkbox"  hidden="true" type="checkbox"  id="input__nav-mobile">
+                                <label for="input__nav-mobile" class="nav-overlay"></label>
+                                <nav class="category-mobile">
+                                    <label for="input__nav-mobile">
+                                        <i class="fas fa-times"></i>
+                                    </label>
+                                 
+                                    <img style="margin:8px 60px;width: 140px; height:40px; text-align: center;"src="./assets/img/logo-mwatch-02 (1).png" alt="">
+                                 
+                                    <a href="Home.aspx" class="">Trang Chủ</a>
+                                    <a href="Gioithieu.aspx" class="">Giới Thiệu</a>
+                                    <a href="Category_product.aspx" class="">Shop</a>
+                                    <a href="TinTuc.aspx" class="">Tin Tức</a>
+                                    <a href="LienHe.aspx" class="">Liên hệ</a>
+                                    <a href="#" class="">Đăng Nhập / Đăng Kí</a>
+                                    <div >
+                                        <a href="facebook.com" class="">
+                                            <i class="fab fa-facebook"></i>
+                                        </a>
+                                        <a href="instagram.com" class="">
+                                            <i class="fab fa-instagram"></i>
+                                        </a>
+                                        <a href="youtube.com" class="">
+                                            <i class="fab fa-youtube"></i>
+                                        </a>
+                                     </div>
+                                    
+                                </nav>
+                                  
+                               
+    
+                            </header>
+                         
+    
+                                 <!-- end nav__mobile -->
+                            <nav class="container-header " id="navbar1"  >
+                                <script>
+                                    window.onscroll = () => {
+                                        const nav = document.querySelector('#navbar1');
+                                        if(this.scrollY <= 10) nav.className = 'scroll1';
+                                        
+                                        else
+                                        
+                                        nav.className = 'scroll4';
+                                      };
+                                </script>
+                               <div class="container-header-list container-header__left" >
+                                
+                                   <a style=" color: var(--main-color);"  href="Home.aspx" class="header-list__item header__left__item">TRANG CHỦ</a>
+                                   <a href="Gioithieu.aspx" class="header-list__item header__left__item">GIỚI THIỆU</a>
+    
+                                   <div class="shop-extend">
+                                      <a href="Category_product.aspx" class="header-list__item header__left__item just-one">SHOP
+                                          <i class="fas fa-angle-down"></i>
+                                      </a>
+                                      <ul class="dropdown-nav">
+                                         <asp:Repeater ID="rptdm1" runat="server">
+                                             <ItemTemplate>
+                                              
+                                                    <li>
+                                                        <a href="Category_product.aspx?MaHang=<%#Eval("MaHang") %> "><%# Eval("TenHang") %></a>
+                                                    </li>                                                 
+                           
+                                             </ItemTemplate>
+                                         </asp:Repeater>
+                                      </ul>
+                                  </div>
+
+         
+    
+    
+                                   <a href="TinTuc.aspx" class="header-list__item header__left__item header-tablet">TIN TỨC</a>
+    
+                                   <a href="LienHe.aspx" class="header-list__item header__left__item">LIÊN HỆ</a>
+                               </div>
+                               <div class="container-header-list container-header__mid">
+                                   <div class="icon">
+                                       <img style ="width:200px; height:52px ; " src="./assets/img/logo-footer.png" alt="">
+                                   </div>
+                               </div>
+                               <div class="container-header-list container-header__right">
+                                       
+                                  <form class="search-form">
+    
+                                      <div class="pseudo-search">
+                                        <input type="text" placeholder="Search..." autofocus required>                                     
+                                        <button class="fa fa-search" type="submit"></button>
+                                      </div>
+                                    
+                                    </form>
+                                          <div class="cart">
+                                              <a href="">
+                                                <p>GIỎ HÀNG</p>
+    
+                                            
+                                                <i class="fas fa-shopping-cart">
+                                               
+                                                </i>
+                                              </a>
+                       
+                                          
+                                            
+                                        </div>
+                               </div>
+                         </nav>
+                      
+                
+                          
+                
+                </div>
+            </div>         
+           
+
+    
+            </div>
+            </div>
+           
+            
+    </div>
+          
+        
+         <div class="content" style=" margin-top: 100px;">
+             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+            </div>
+          </div>
+          
+       <footer class="footer ">
+  <div class="grid wide">
+      <div class="row">
+          <div class="col l-3 m-6 c-6">
+              <div class="footer__clo">
+                  <div class="footer__title">
+                      <img style="width: 246;height:64px;" src="./assets/img/logo-footer.png" alt="">
+                  </div>
+      
+                  <ul class="footer__list">
+                    <li class="footer__list__item">
+                      <i class="fas fa-map-marker-alt"></i>
+                      <p>254 Nguyễn Văn Linh - Quận Thanh Khe - Tp.Đà Nẵng</p>
+                    </li>
+                    <li class="footer__list__item">
+                      <i class="fas fa-phone"></i>
+                      <p>076 922 0162</p>
+                    </li>
+                    <li class="footer__list__item">
+                      <i class="far fa-envelope"></i>
+                      <p>danchoiphonui27@gmail.com</p>
+                    </li>
+                    <li class="footer__list__item">
+                      <i class="fab fa-youtube"></i>
+                      <p>demonhunterp</p>
+                    </li>
+                     
+                  </ul>   
+               </div>
+          </div>
+          <div class="col l-3 m-6 c-6">
+              <div class="footer__clo footer__col-menu">
+                  <div class="footer__title">
+                     <p1 style="font-size:20px;font-weight: 600;">MENU</p1>
+                  </div>
+      
+                  <ul class="footer__list">
+                    <li class="footer__list__item footer__list__item-menu menu-hover-i">
+                        <a href="Home.aspx" class="">
+                          <i class="fas fa-angle-right"></i>
+                          <p>Trang Chủ</p>
+                        </a>
+                     
+                    </li>
+                    <li class="footer__list__item footer__list__item-menu menu-hover-i">
+                      <a href="Gioithieu.aspx" class="">
+                        <i class="fas fa-angle-right"></i>
+                        <p>Giới Thiệu</p>
+                      </a>
+                   
+                  </li>
+                  <li class="footer__list__item footer__list__item-menu menu-hover-i">
+                      <a href="TinTuc.aspx" class="">
+                        <i class="fas fa-angle-right"></i>
+                        <p>Tin Tức</p>
+                      </a>
+                   
+                  </li>
+                  <li class="footer__list__item footer__list__item-menu menu-hover-i">
+                      <a href="LienHe.aspx" class="">
+                        <i class="fas fa-angle-right"></i>
+                        <p>Liên Hệ</p>
+                      </a>
+                   
+                  </li>
+                  <li class="footer__list__item footer__list__item-menu menu-hover-i">
+                      <a href="Login.aspx" class="">
+                        <i class="fas fa-angle-right"></i>
+                        <p>Đăng Nhập</p>
+                      </a>
+                   
+                  </li>
+                  <li class="footer__list__item footer__list__item-menu menu-hover-i">
+                      <a href="Signup.aspx" class="">
+                        <i class="fas fa-angle-right"></i>
+                        <p>Đăng Ký</p>
+                      </a>
+                   
+                  </li>
+                     
+                  </ul>   
+               </div>
+          </div>
+          <div class="col l-3 m-6 c-6">
+              <div class="footer__clo footer__col-menu">
+                  <div class="footer__title">
+                     <p1 style="font-size:20px;font-weight: 600;">SẢN PHẨM</p1>
+                  </div>
+      
+                  <asp:Repeater ID="rptdm3" runat="server">
+                              <ItemTemplate>
+                                  
+                          <ul class="footer__list">
+                            <li class="footer__list__item footer__list__item-menu menu-hover-i">
+                                <a href="#" class="">
+                                    <a href="#" class="">
+                                  <i class="fas fa-angle-right"></i>
+                                   <a href="Category_product.aspx?MaHang=<%#Eval("MaHang") %> "><%# Eval("TenHang") %></a>
+                                </a>
+                             
+                            </li>
+                           
+                        
+                        
+                             
+                          </ul>   
+                              </ItemTemplate>
+                          </asp:Repeater>
+               </div>
+          </div>
+          <div class="col l-3 m-6 c-6">
+              <div class="footer__clo ">
+                  <div class="footer__title">
+                      <p style="font-size:20px;font-weight: 600;">ĐĂNG KÝ</p>
+                  </div>
+      
+                  <ul class="footer__list">
+                    <li class="footer__list__item">
+                      <p>Đăng ký để nhận được được thông tin mới nhất từ chúng tôi.</p>
+                    </li>
+                    <li class="footer__list__item">
+                      <input type="text" placeholder="Email ...">
+                    </li>
+                    <li style="padding: 20px 0;"class="footer__list__item footer__list__item-connect" >
+                      
+                      <p >KẾT NỐI VỚI CHÚNG TÔI</p>
+                    </li>
+                    <li class="footer__list__item footer__list__item__last">
+                        <a href="">
+                            <i class="fab fa-youtube"></i>
+                        </a>
+                        <a href="">
+
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="">
+
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                    </li>
+                     
+                  </ul>   
+               </div>
+          </div>
+              
+      </div>
+  </div>
+
+ 
+
+   </footer> 
+
+
+            
+           
+     
+    </form>
+    <script>
+        var $= document.querySelector.bind(document);
+        var $$=document.querySelectorAll.bind(document);
+        const line= $(".line");
+        var tabs= $$(".tab-item");
+        var tabsActive= $(".tab-item.active");
+        var contents= $$(".tab-pane");
+        line.style.left=tabsActive.offsetLeft + "px";
+        line.style.width= tabsActive.offsetWidth + "px";
+         tabs.forEach((tab,index) =>{
+             var content = contents[index];
+                 tab.onclick=function(){
+                    $(".tab-item.active").classList.remove("active");
+                    $(".tab-pane.active").classList.remove("active");
+                    this.classList.add("active");
+                    content.classList.add("active");
+                    line.style.left= this.offsetLeft+"px";
+                    line.style.width= this.offsetWidth+"px";
+                
+                 } 
+         });
+
+        
+    </script>
+</body>
+</html>

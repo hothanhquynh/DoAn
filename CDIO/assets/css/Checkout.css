@@ -1,0 +1,31 @@
+﻿body {
+   
+}
+.checkout_content {
+    color: black;
+    transform: translateX(275px);
+}
+.content {
+    display: flex;
+    
+    justify-content: space-between;
+    //transform: translateX(80px);
+}
+.content > p {
+    font-weight: 600;
+    font-size: 18px;
+    margin: 20px 20px;
+}
+.btn-dathang {
+    
+    padding: 20px 60px;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 30px 46%;
+    text-align: center;
+    font-weight: 600;
+    color: #fff;
+    border: none;
+    background-color: var(--main-color);
+    border-radius: 40px;
+}

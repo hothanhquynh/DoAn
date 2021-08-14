@@ -1,0 +1,35 @@
+﻿body {
+}
+.grid {
+    margin-top:30px;
+}
+.img_calendar {
+    height: 20px;
+}
+.btn_loc {
+    border: 1px solid #2f80ed;
+    border-radius: 4px;
+    color: #2f80ed;
+    display: block;
+    line-height: 17px;
+    margin-left: 5%;
+    padding: 4px 5px;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+    display: inline-block;
+    margin:20px;
+}
+.grid_tong-dthu {
+    margin-left:30px;
+    margin-bottom:30px;
+}
+.table {
+    transform: translateX(150px);
+}
+.table td {
+    padding-right: 10px;
+}
+.table input {
+    margin-right: 10px;
+}

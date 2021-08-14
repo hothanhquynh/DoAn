@@ -1,0 +1,137 @@
+﻿body {
+}
+
+
+.tieu-de-trang {
+    color: green;
+    font-size: 2.2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.danh-sach-san-pham {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 13px;
+    margin-right: 78px;
+}
+
+    .danh-sach-san-pham th {
+        border: 1px solid black;
+        background-color: cornflowerblue;
+        text-align: center;
+        padding: 8px;
+    }
+
+    .danh-sach-san-pham td {
+        border: 1px solid black;
+        padding: 8px;
+    }
+
+    .danh-sach-san-pham tr:nth-child(even) {
+        background-color: lightgrey;
+    }
+
+.tieu-de-trang a {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.card-btn {
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    display: inline-block;
+    background-color: #7DC855;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 12px 9px;
+    margin-left: 340px;
+    transition: all .5s;
+    text-align: center;
+}
+
+.btn_them {
+    background-color: #734141a6;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 5px 17px;
+    transform: translateX(500px);
+    margin-bottom: 20px;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+}
+
+    .btn_them a {
+        color: white;
+        text-decoration: none;
+    }
+/*.btn_sua {
+    background-color: #734141a6;
+}
+
+    .btn_sua a {
+        color: white;
+        text-decoration: none;
+    }*/
+.btn_sua {
+    background-color: #734141a6;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 7px 18px;
+    margin-bottom: 20px;
+    border: none;
+    cursor: pointer;
+    transform: translateX(10px);
+    font-weight:bold;
+}
+
+    .btn_sua a {
+        text-decoration: none;
+        color:white;
+    }
+.btn_xoa {
+    background-color: #734141a6;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 5px 18px;
+    margin-bottom: 20px;
+    border: none;
+    cursor: pointer;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.text {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 20%;
+}
+
+.tieu-de-trang {
+    font-size: 2.2em;
+    text-align: center;
+    margin: 10px 0px 30px 0px;
+}
+
+.danh-sach-san-pham td {
+    text-align: center;
+}
+
+.container {
+    color: black;
+    font-weight: 900;
+}
+      

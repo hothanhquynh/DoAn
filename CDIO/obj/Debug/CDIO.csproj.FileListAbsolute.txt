@@ -1,0 +1,392 @@
+E:\DO AN SE 397\CDIO\CDIO\obj\Debug\CDIO.csprojAssemblyReference.cache
+E:\DO AN SE 397\CDIO\CDIO\obj\Debug\CDIO.csproj.CoreCompileInputs.cache
+E:\DO AN SE 397\CDIO\CDIO\bin\CDIO.dll.config
+E:\DO AN SE 397\CDIO\CDIO\bin\CDIO.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\CDIO.pdb
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\csc.exe
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\csc.exe.config
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\csc.rsp
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\csi.exe
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\csi.exe.config
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\csi.rsp
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.AppContext.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Collections.Immutable.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Console.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.IO.Compression.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.IO.Pipes.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Reflection.Metadata.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Security.AccessControl.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Security.Claims.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.ValueTuple.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Xml.XPath.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\vbc.exe
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\vbc.exe.config
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\vbc.rsp
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe
+E:\DO AN SE 397\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe.config
+E:\DO AN SE 397\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DO AN SE 397\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DO AN SE 397\CDIO\CDIO\obj\Debug\CDIO.csproj.CopyComplete
+E:\DO AN SE 397\CDIO\CDIO\obj\Debug\CDIO.dll
+E:\DO AN SE 397\CDIO\CDIO\obj\Debug\CDIO.pdb
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\CDIO.dll.config
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\CDIO.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\CDIO.pdb
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\csc.exe
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\csc.exe.config
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\csc.rsp
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\csi.exe
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\csi.exe.config
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\csi.rsp
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.AppContext.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Collections.Immutable.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Console.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.IO.Compression.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.IO.Pipes.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Reflection.Metadata.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.AccessControl.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Claims.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.ValueTuple.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XPath.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\vbc.exe
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\vbc.exe.config
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\vbc.rsp
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe.config
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\obj\Debug\CDIO.csprojAssemblyReference.cache
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\obj\Debug\CDIO.csproj.CoreCompileInputs.cache
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\obj\Debug\CDIO.csproj.CopyComplete
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\obj\Debug\CDIO.dll
+E:\Code\Projects\Web\CDIO-Ly\CDIO\CDIO\CDIO\obj\Debug\CDIO.pdb
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\CDIO.dll.config
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\CDIO.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\CDIO.pdb
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\csc.exe
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\csc.exe.config
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\csc.rsp
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\csi.exe
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\csi.exe.config
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\csi.rsp
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.AppContext.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Collections.Immutable.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Console.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.IO.Compression.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.IO.Pipes.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Reflection.Metadata.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.AccessControl.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Claims.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.ValueTuple.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XPath.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\vbc.exe
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\vbc.exe.config
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\vbc.rsp
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe.config
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\obj\Debug\CDIO.csprojAssemblyReference.cache
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\obj\Debug\CDIO.csproj.CoreCompileInputs.cache
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\obj\Debug\CDIO.csproj.CopyComplete
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\obj\Debug\CDIO.dll
+E:\Code\Projects\Web\CDIO3-Ly\CDIO\CDIO\CDIO\obj\Debug\CDIO.pdb
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\CDIO.dll.config
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\CDIO.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\CDIO.pdb
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\csi.exe
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\CDIO\CDIO\obj\Debug\CDIO.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\CDIO\CDIO\obj\Debug\CDIO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\CDIO\CDIO\obj\Debug\CDIO.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\CDIO\CDIO\obj\Debug\CDIO.dll
+C:\Users\ADMIN\Downloads\CDIO\CDIO\obj\Debug\CDIO.pdb
+D:\ASP.NET\CDIO\CDIO\bin\CDIO.dll.config
+D:\ASP.NET\CDIO\CDIO\bin\CDIO.dll
+D:\ASP.NET\CDIO\CDIO\bin\CDIO.pdb
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\csc.exe
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\csc.exe.config
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\csc.rsp
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\csi.exe
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\csi.exe.config
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\csi.rsp
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.AppContext.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Console.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.IO.Compression.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.IO.Pipes.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Security.AccessControl.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Security.Claims.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.ValueTuple.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Xml.XPath.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\vbc.exe
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\vbc.exe.config
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\vbc.rsp
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe
+D:\ASP.NET\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.NET\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.NET\CDIO\CDIO\obj\Debug\CDIO.csprojAssemblyReference.cache
+D:\ASP.NET\CDIO\CDIO\obj\Debug\CDIO.csproj.CoreCompileInputs.cache
+D:\ASP.NET\CDIO\CDIO\obj\Debug\CDIO.csproj.CopyComplete
+D:\ASP.NET\CDIO\CDIO\obj\Debug\CDIO.dll
+D:\ASP.NET\CDIO\CDIO\obj\Debug\CDIO.pdb
+D:\SE397F-CDIO\CDIO\CDIO\bin\CDIO.dll.config
+D:\SE397F-CDIO\CDIO\CDIO\bin\CDIO.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\CDIO.pdb
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\csc.exe
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\csc.exe.config
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\csc.rsp
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\csi.exe
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\csi.exe.config
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\csi.rsp
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.AppContext.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Collections.Immutable.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Console.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.IO.Compression.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.IO.Pipes.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Reflection.Metadata.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Security.AccessControl.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Security.Claims.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.ValueTuple.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XPath.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\vbc.exe
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\vbc.exe.config
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\vbc.rsp
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe
+D:\SE397F-CDIO\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe.config
+D:\SE397F-CDIO\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SE397F-CDIO\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SE397F-CDIO\CDIO\CDIO\obj\Debug\CDIO.csprojAssemblyReference.cache
+D:\SE397F-CDIO\CDIO\CDIO\obj\Debug\CDIO.csproj.CoreCompileInputs.cache
+D:\SE397F-CDIO\CDIO\CDIO\obj\Debug\CDIO.csproj.CopyComplete
+D:\SE397F-CDIO\CDIO\CDIO\obj\Debug\CDIO.dll
+D:\SE397F-CDIO\CDIO\CDIO\obj\Debug\CDIO.pdb
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\CDIO.dll.config
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\CDIO.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\CDIO.pdb
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\csc.exe
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\csc.exe.config
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\csc.rsp
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\csi.exe
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\csi.exe.config
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\csi.rsp
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.Managed.Core.targets
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.AppContext.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Collections.Immutable.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Console.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.IO.Compression.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.IO.Pipes.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Reflection.Metadata.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Security.AccessControl.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Claims.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Security.Principal.Windows.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.ValueTuple.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XmlDocument.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XPath.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\vbc.exe
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\vbc.exe.config
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\vbc.rsp
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\roslyn\VBCSCompiler.exe.config
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\obj\Debug\CDIO.csprojAssemblyReference.cache
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\obj\Debug\CDIO.csproj.CoreCompileInputs.cache
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\obj\Debug\CDIO.csproj.CopyComplete
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\obj\Debug\CDIO.dll
+G:\hồ thanh quỳnh\DOAN\CDIO\CDIO\CDIO\obj\Debug\CDIO.pdb

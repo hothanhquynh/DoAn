@@ -1,0 +1,48 @@
+body {  background-color: #d6d2d2;}
+
+#navbar1 { 
+    background-color: black;
+    height:100px;
+    align-items: center;
+    margin-top:-20px;
+}
+@mixin color-font {
+    color: #555555;
+    font-size:16px;
+}
+$color-hover:#DD3324;
+.container-user {
+    margin-top: 130px;
+    
+
+    .list-left{
+        width: 100%;
+        
+
+        text-align: center;
+        ul {  
+            li{  
+                a{
+                    display:flex;
+                    padding:20px 0 ;
+                    justify-content: left;
+
+                
+                    i{
+                        font-size:30px;
+                        @include color-font;
+                       
+                       }
+                       :hover{
+                        color:$color-hover;
+                        cursor:pointer;
+                    }
+                    p {
+                        padding:2px 10px;
+                        @include color-font;
+                    }
+                }
+            }
+        }
+    }
+}

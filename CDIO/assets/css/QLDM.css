@@ -1,0 +1,35 @@
+﻿body {
+}
+.input-dm{
+    height: 25px;
+    padding-left: 10px;
+}
+.button2 {
+    border: none;
+    background-color: midnightblue;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    margin: 20px;
+    text-decoration: none;
+}
+
+.button1:hover {
+    background-color: white;
+    border: 2px solid midnightblue;
+    color: black;
+}
+.left1 {
+    margin: 40px;
+    transform: translateX(227px);
+}
+.title-dm {
+    margin-right: 20px;
+}
+.image {
+    transform: translateX(427px);
+    margin-top: 30px;
+}
+.btn_upload {
+    margin-left: 18px;
+}
